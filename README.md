@@ -10,7 +10,7 @@ You can then manually look for the right quantities on your favorite supermarket
 
 
 **_resnippy_** converts your [Realplans](https://www.realplans.com "Go to the RealPlans's site") shopping list:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;into this simple to use list:                         
-![alt text](https://github.com/kittenwhisky/resnippy/blob/master/Resnippy/RealPlansList.png "RealPlans list")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![alt text](https://github.com/kittenwhisky/resnippy/blob/master/Resnippy/SimpleList.png "Simple list")
+![alt text](https://github.com/kittenwhisky/resnippy/blob/master/Resnippy/RealPlansList.png "RealPlans list")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;; ![alt text](https://github.com/kittenwhisky/resnippy/blob/master/Resnippy/SimpleList.png "Simple list")
 
 
 
