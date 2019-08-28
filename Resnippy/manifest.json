@@ -1,0 +1,28 @@
+{
+  // Required
+  "manifest_version": 2,
+  "name": "Resnippy",
+  "version": "1.0",
+  "description": "Export your RealPlans shopping list",
+  "icons": {"128" : "icon.png"},
+
+  // executes after page loads and manipulates the page
+  "content_scripts": [
+    {
+      "matches": ["https://app.realplans.com/CurrentPlans"],    //recipe repository
+      "js": ["content.js"]
+    }
+  ],
+
+    // listens for browser action, e.g. icon click
+    // and can cause content script to run
+
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "browser_action": {
+    "default_title": "Export shopping list"
+  },
+  "permissions": ["tabs"]
+}
+//
