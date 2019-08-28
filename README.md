@@ -4,6 +4,7 @@
 [**Realplans**](https://www.realplans.com "Go to the RealPlans's site") is a great online app to simplify your weekly mealplan. Their shopping list feature is great for converting your mealplan into an easy-to-shop for list.
 
 However, most online supermarket websites don't allow you to search for specific quantities of an item.
+resnippy (a combination of the words recipe and snippet and pronounced like re-snee-pee) can solve this problem for you!
 **This chrome extension converts the realplans list into a simplified shopping list.**
 You can paste this simplified list **into most online supermarket searches**.
 You can then manually look for the right quantities on your favorite supermarket's site.
